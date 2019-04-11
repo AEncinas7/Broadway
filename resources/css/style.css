@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h1,
+h2,
+h3{
+  font-weight: bold;
+}
+
+h1,
+.link,
+.design_location{
+  color: white;
+}
+
+p.footer{
+  color:white;
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
+}
+
+h1{
+  font-size: 70px;
+}
+
+h2{
+font-size: 32px;
+}
+
+.link{
+  font-size: 18px;
+}
+
+h3{
+  font-size: 23px;
+}
