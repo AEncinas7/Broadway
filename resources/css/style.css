@@ -15,8 +15,12 @@ h1,
   color: white;
 }
 
+p{
+  font-size: 14px;
+}
+
 p.footer{
-  color:white;
+  color: white;
   font-size: 11px;
   background-color: dimgray;
   text-align: left;
@@ -36,4 +40,8 @@ font-size: 32px;
 
 h3{
   font-size: 23px;
+}
+.top,
+.design_location{
+  background-image: url("../../images/the-flatiron-building.png");
 }
